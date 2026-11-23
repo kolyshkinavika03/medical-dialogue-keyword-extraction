@@ -48,7 +48,7 @@ medical-dialogue-keyword-extraction/
 └── keywords_extractor.ipynb
 ```
 
-- `keywords_extractor.ipynb` — ноутбук с анализом данных, извлечением ключевых слов, визуализацией и кластеризацией.
+- `keywords-extractor.ipynb` — ноутбук с анализом данных, извлечением ключевых слов, визуализацией и кластеризацией.
 
 
 
