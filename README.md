@@ -45,7 +45,7 @@
 ```text
 medical-dialogue-keyword-extraction/
 ├── README.md
-└── keywords_extractor.ipynb
+└── keywords-extractor.ipynb
 ```
 
 - `keywords-extractor.ipynb` — ноутбук с анализом данных, извлечением ключевых слов, визуализацией и кластеризацией.
